@@ -1,5 +1,12 @@
 # This is a Youtube content created with the help of langchain and OpenAi Api
 
+
+## Interface
+
+![](https://github.com/ongraphpythondev/langchain_youtube_content_generator/images/image1.png)
+
+![](https://github.com/ongraphpythondev/langchain_youtube_content_generator/images/image2.png)
+
 ## Clone the repository
 
 `git clone https://github.com/ongraphpythondev/langchain_youtube_content_generator.git`

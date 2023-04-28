@@ -1,6 +1,6 @@
 import streamlit as sc
 import os
-from keys import OPEN_AI_API,SERPAPI_API_KEY
+from keys import OPEN_AI_API
 from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
