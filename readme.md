@@ -3,9 +3,9 @@
 
 ## Interface
 
-![](https://github.com/ongraphpythondev/langchain_youtube_content_generator/images/image1.png)
+![](https://github.com/ongraphpythondev/langchain_youtube_content_generator/blob/main/images/image1.png)
 
-![](https://github.com/ongraphpythondev/langchain_youtube_content_generator/images/image2.png)
+![](https://github.com/ongraphpythondev/langchain_youtube_content_generator/blob/main/images/image2.png)
 
 ## Clone the repository
 
