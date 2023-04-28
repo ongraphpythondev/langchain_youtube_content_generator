@@ -29,7 +29,7 @@ script_memory=ConversationBufferMemory(input_key='title',memory_key="chat histor
 
 # LLM model initialize
 llm_model=OpenAI(openai_api_key=OPEN_AI_API,
-                 temperature=0.9,model_name="text-curie-001")
+                 temperature=0.9)
 # Title chain 
 title_chain=LLMChain(llm=llm_model,prompt=title_template,output_key="title",memory=title_memory,verbose=True)
 # script chain
