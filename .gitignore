@@ -1,0 +1,8 @@
+# .gitignore
+.env
+env
+# langchain_file.ipynb
+venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
